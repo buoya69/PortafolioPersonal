@@ -1,2 +1,2 @@
 # PortafolioPersonal
-Este portafolio esta
+Este portafolio esta creado para informar sobre mis conocimientos
